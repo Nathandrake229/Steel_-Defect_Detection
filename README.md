@@ -4,6 +4,7 @@ Defect detection and masking model for Steel Microstructure
 Used on Severstal Steel Dataset on Kaggle
 
 Mask RCNN Model
+  Create a virtual environment and install packages from requirements.txt
 
   Use mask_rcnn_coco.h5 file for pretrained weights
 
